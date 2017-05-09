@@ -1,0 +1,9 @@
+C:\Users\jefflongo\tiy\week-9\day-2\portfolio3\bin\Debug\netcoreapp1.1\portfolio3.deps.json
+C:\Users\jefflongo\tiy\week-9\day-2\portfolio3\bin\Debug\netcoreapp1.1\portfolio3.runtimeconfig.json
+C:\Users\jefflongo\tiy\week-9\day-2\portfolio3\bin\Debug\netcoreapp1.1\portfolio3.runtimeconfig.dev.json
+C:\Users\jefflongo\tiy\week-9\day-2\portfolio3\bin\Debug\netcoreapp1.1\portfolio3.dll
+C:\Users\jefflongo\tiy\week-9\day-2\portfolio3\bin\Debug\netcoreapp1.1\portfolio3.pdb
+C:\Users\jefflongo\tiy\week-9\day-2\portfolio3\obj\Debug\netcoreapp1.1\portfolio3.AssemblyInfo.cs
+C:\Users\jefflongo\tiy\week-9\day-2\portfolio3\obj\Debug\netcoreapp1.1\portfolio3.dll
+C:\Users\jefflongo\tiy\week-9\day-2\portfolio3\obj\Debug\netcoreapp1.1\portfolio3.pdb
+C:\Users\jefflongo\tiy\week-9\day-2\portfolio3\obj\Debug\netcoreapp1.1\portfolio3.csprojResolveAssemblyReference.cache
